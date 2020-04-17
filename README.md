@@ -1,5 +1,6 @@
 # Practical Deep Reinforcement Learning Approach for Stock Trading
 
+From https://arxiv.org/pdf/1811.07522.pdf
 
 ## Prerequisites 
 Python 3.6 envrionment 
